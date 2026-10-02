@@ -1,0 +1,13 @@
+{
+  "_hinweis": {
+    "zweck": "Gueltigkeit und Zustaendigkeit je Dokument oder Ordner. Wird von Info-Pool 67 v8.7 gelesen.",
+    "schluessel": "Die Knoten-ID aus der Themenstruktur (LiveTree bildet sie aus dem Pfad). Am bequemsten pflegt man die Angaben nicht hier, sondern im Adminmodus (Alt+Umschalt+A) ueber die Schaltflaeche 'Angaben pflegen' im Viewer.",
+    "vererbung": "Eine Angabe an einer ORDNER-ID gilt fuer alle Dokumente darin, solange diese keine eigene Angabe haben. Deshalb reicht es, die rund 20 Hauptordner zu pflegen statt jeder einzelnen Datei.",
+    "felder": {
+      "geprueft": "JJJJ-MM-TT, Tag der letzten fachlichen Bestaetigung",
+      "frist": "Monate bis zur naechsten Pruefung (6 | 12 | 24 | 36 | 60), Vorgabe 24",
+      "zustaendig": "Name genau wie in Mitarbeiterliste.json ('Nachname, Vorname') - die Durchwahl wird automatisch ergaenzt",
+      "hinweis": "freier Text, z. B. 'ersetzt DA 03/2019'"
+    }
+  }
+}
