@@ -1,3 +1,8 @@
+> **Archiviert am 07.10.2026.** Der Info-Pool ist in die Startseite von Programme 67 aufgegangen und wird nur noch in
+> [amichel45/Start-Programme-67](https://github.com/amichel45/Start-Programme-67) weiterentwickelt (ab Fassung 1.12:
+> `start67_infopool.js`, übernommene Module `storage_v8.js` und `infopool67_*.js`). Die Daten bleiben im
+> SharePoint-Ordner `/Wissen673/Freigegebene Dokumente/Infopool`. Hier nichts mehr ändern.
+
 # Info-Pool 67
 
 Internes Dokumenten- und Wissensportal des Amtes für Landschaftspflege und
